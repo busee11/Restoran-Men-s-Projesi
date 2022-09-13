@@ -1,2 +1,2 @@
-# Restoran-Men-s-Projesi
+# Restoran-Menu-Projesi
 JavaScript ile menü düzenleme
